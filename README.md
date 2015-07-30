@@ -1,2 +1,2 @@
 # JavaEE7SecurityExamples
-Examples used in courses, presentations and articles
+Source-code used in courses and presentations on Java EE/SE Security by Helder da Rocha.
