@@ -7,7 +7,7 @@ package br.com.argonavis.jaspictut.config;
 
 import br.com.argonavis.jaspictut.sam.ExampleServerAuthModule;
 import java.util.Collections;
-import java.util.Map;
+import java.util.Map; 
 import javax.security.auth.Subject;
 import javax.security.auth.callback.CallbackHandler;
 import javax.security.auth.message.AuthException;

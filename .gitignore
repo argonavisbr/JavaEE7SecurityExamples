@@ -16,3 +16,5 @@ target/
 
 # Sensible data
 auth.properties
+
+JASPICTutorial/src/main/webapp/WEB-INF/auth.properties
